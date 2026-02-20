@@ -1,1 +1,1 @@
-# java-assignment-1
+This project is a simple Java-based Student Result Processing System developed as part of a mini project assignment. The application allows users to add student details, calculate total and average marks, assign grades, store and retrieve records using file handling, search students by roll number, and display failed students. It is a menu-driven program that demonstrates core Object-Oriented Programming (OOP) concepts, including classes, objects, constructors, method overloading, and exception handling, making it easy to understand and efficient to use.
